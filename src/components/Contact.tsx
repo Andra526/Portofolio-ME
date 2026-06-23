@@ -25,7 +25,7 @@ export default function Contact() {
                 <Icon name="github" size={18} />
                 GitHub
               </a>
-              <a href="mailto:andra.setya@email.com" className="btn btn-light-outline">
+              <a href="mailto:andrasetya856@email.com" className="btn btn-light-outline">
                 <Icon name="mail" size={18} />
                 Email Saya
               </a>
